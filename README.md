@@ -10,7 +10,7 @@
   - [myPortfolio](https://github.com/m-padilla/myPortfolio)
 
 - <b>Back end dev</b>
-  - [Baccarat Web APP]
+  - [Baccarat Web APP](https://github.com/m-padilla/Baccarat)
   - [Blackjack Web App]
 
 - <b>Python</b>
