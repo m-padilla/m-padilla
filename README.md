@@ -12,6 +12,7 @@
 - <b>Single-page Application (SPA)</b>
   - [Baccarat Web APP](https://github.com/m-padilla/Baccarat)
   - [Blackjack Web App](https://github.com/m-padilla/Blackjack)
+  - [Quiz Web App](https://github.com/m-padilla/Quiz_Web_App)
 
 - <b>Python</b>
   - [under construction]
