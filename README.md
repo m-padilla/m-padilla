@@ -6,6 +6,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Full Stack Web App (React, Tailwind CSS & Google Firebase)</b>
+  - [CapStone Project](https://github.com/m-padilla/CS4962-BSCS-CSULA-CapStone)
+
 - <b>Front End Web App (React & Tailwind CSS)</b>
   - [myPortfolio](https://github.com/m-padilla/myPortfolio)
 
