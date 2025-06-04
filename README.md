@@ -9,7 +9,7 @@
 - <b>Front End Web App (React & Tailwind CSS)</b>
   - [myPortfolio](https://github.com/m-padilla/myPortfolio)
 
-- <b>Back end dev</b>
+- <b>Single-page Application (SPA)</b>
   - [Baccarat Web APP](https://github.com/m-padilla/Baccarat)
   - [Blackjack Web App](https://github.com/m-padilla/Blackjack)
 
