@@ -11,7 +11,7 @@
 
 - <b>Back end dev</b>
   - [Baccarat Web APP](https://github.com/m-padilla/Baccarat)
-  - [Blackjack Web App]
+  - [Blackjack Web App](https://github.com/m-padilla/Blackjack)
 
 - <b>Python</b>
   - [under construction]
